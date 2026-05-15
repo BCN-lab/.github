@@ -1,9 +1,6 @@
 # Behavioral Cognitive Neuroscience Lab
 
-Code, tools, documentation, and open research resources from the **Behavioral Cognitive Neuroscience (BCN) Lab** at **Vrije Universiteit Amsterdam**, led by [Dr. Matthias Nau](https://matthiasnau.com/). For information about the lab, ongoing research, and publications, visit:
-
-- [Personal website](https://matthiasnau.com/)
-- [Google Scholar profile](https://scholar.google.com/citations?user=r83cbFMAAAAJ&hl=de&oi=sra)
+Code, tools, documentation, and open research resources from the **Behavioral Cognitive Neuroscience (BCN) Lab** at **Vrije Universiteit Amsterdam**, led by [Dr. Matthias Nau](https://matthiasnau.com/). For information about the lab, ongoing research, and publications, visit our [personal website](https://matthiasnau.com/) or [Google Scholar profile](https://scholar.google.com/citations?user=r83cbFMAAAAJ&hl=de&oi=sra).
 
 ## What you can find here
 This GitHub organization contains repositories for:
