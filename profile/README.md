@@ -1,10 +1,8 @@
 # Behavioral Cognitive Neuroscience Lab
 
-Code, tools, documentation, and open research resources from the **Behavioral Cognitive Neuroscience (BCN) Lab** at **Vrije Universiteit Amsterdam**.
+Code, tools, documentation, and open research resources from the **Behavioral Cognitive Neuroscience (BCN) Lab** at **Vrije Universiteit Amsterdam**. The lab is led by [Dr. Matthias Nau](https://matthiasnau.com/) and is part of the Department of Experimental and Applied Psychology and the Institute for Brain and Behavior Amsterdam.
 
-The lab is led by [Dr. Matthias Nau](https://matthiasnau.com/) and is part of the Department of Experimental and Applied Psychology and the Institute for Brain and Behavior Amsterdam.
-
-This organization hosts code, tools, documentation, and research resources developed by the lab (**Under Construction**).
+This GitHub organization hosts code, tools, documentation, and research resources developed by the lab (**Under Construction**).
 
 ## About the lab
 
@@ -31,8 +29,7 @@ A major open-source project from the lab is **OpenMReye**, a framework for MR-ba
 ## Contact
 
 **Behavioral Cognitive Neuroscience Lab**
-Vrije Universiteit Amsterdam  
-Department of Experimental and Applied Psychology  
-Institute for Brain and Behavior Amsterdam  
-
-Lab lead: [Dr. Matthias Nau](https://matthiasnau.com/)
+Dr. Matthias Nau
+Vrije Universiteit Amsterdam
+Department of Experimental and Applied Psychology
+Institute for Brain and Behavior Amsterdam
